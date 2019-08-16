@@ -1,0 +1,11 @@
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\EventDelegates\EventDelegates\obj\Debug\netcoreapp2.1\EventDelegates.csprojAssemblyReference.cache
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\EventDelegates\EventDelegates\obj\Debug\netcoreapp2.1\EventDelegates.csproj.CoreCompileInputs.cache
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\EventDelegates\EventDelegates\obj\Debug\netcoreapp2.1\EventDelegates.AssemblyInfoInputs.cache
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\EventDelegates\EventDelegates\obj\Debug\netcoreapp2.1\EventDelegates.AssemblyInfo.cs
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\EventDelegates\EventDelegates\bin\Debug\netcoreapp2.1\EventDelegates.deps.json
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\EventDelegates\EventDelegates\bin\Debug\netcoreapp2.1\EventDelegates.runtimeconfig.json
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\EventDelegates\EventDelegates\bin\Debug\netcoreapp2.1\EventDelegates.runtimeconfig.dev.json
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\EventDelegates\EventDelegates\bin\Debug\netcoreapp2.1\EventDelegates.dll
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\EventDelegates\EventDelegates\bin\Debug\netcoreapp2.1\EventDelegates.pdb
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\EventDelegates\EventDelegates\obj\Debug\netcoreapp2.1\EventDelegates.dll
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\EventDelegates\EventDelegates\obj\Debug\netcoreapp2.1\EventDelegates.pdb

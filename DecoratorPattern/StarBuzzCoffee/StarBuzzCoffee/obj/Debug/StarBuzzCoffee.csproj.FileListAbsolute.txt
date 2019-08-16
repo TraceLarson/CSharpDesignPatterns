@@ -1,0 +1,7 @@
+C:\Users\tlarson\source\repos\DesignPatterns\DecoratorPattern\StarBuzzCoffee\StarBuzzCoffee\bin\Debug\StarBuzzCoffee.exe.config
+C:\Users\tlarson\source\repos\DesignPatterns\DecoratorPattern\StarBuzzCoffee\StarBuzzCoffee\bin\Debug\StarBuzzCoffee.exe
+C:\Users\tlarson\source\repos\DesignPatterns\DecoratorPattern\StarBuzzCoffee\StarBuzzCoffee\bin\Debug\StarBuzzCoffee.pdb
+C:\Users\tlarson\source\repos\DesignPatterns\DecoratorPattern\StarBuzzCoffee\StarBuzzCoffee\obj\Debug\StarBuzzCoffee.csprojAssemblyReference.cache
+C:\Users\tlarson\source\repos\DesignPatterns\DecoratorPattern\StarBuzzCoffee\StarBuzzCoffee\obj\Debug\StarBuzzCoffee.csproj.CoreCompileInputs.cache
+C:\Users\tlarson\source\repos\DesignPatterns\DecoratorPattern\StarBuzzCoffee\StarBuzzCoffee\obj\Debug\StarBuzzCoffee.exe
+C:\Users\tlarson\source\repos\DesignPatterns\DecoratorPattern\StarBuzzCoffee\StarBuzzCoffee\obj\Debug\StarBuzzCoffee.pdb

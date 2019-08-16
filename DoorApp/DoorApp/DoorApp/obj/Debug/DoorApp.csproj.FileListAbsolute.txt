@@ -1,0 +1,7 @@
+C:\Users\tlarson\source\repos\DesignPatterns\DoorApp\DoorApp\DoorApp\obj\Debug\DoorApp.csprojAssemblyReference.cache
+C:\Users\tlarson\source\repos\DesignPatterns\DoorApp\DoorApp\DoorApp\obj\Debug\DoorApp.csproj.CoreCompileInputs.cache
+C:\Users\tlarson\source\repos\DesignPatterns\DoorApp\DoorApp\DoorApp\bin\Debug\DoorApp.exe.config
+C:\Users\tlarson\source\repos\DesignPatterns\DoorApp\DoorApp\DoorApp\bin\Debug\DoorApp.exe
+C:\Users\tlarson\source\repos\DesignPatterns\DoorApp\DoorApp\DoorApp\bin\Debug\DoorApp.pdb
+C:\Users\tlarson\source\repos\DesignPatterns\DoorApp\DoorApp\DoorApp\obj\Debug\DoorApp.exe
+C:\Users\tlarson\source\repos\DesignPatterns\DoorApp\DoorApp\DoorApp\obj\Debug\DoorApp.pdb

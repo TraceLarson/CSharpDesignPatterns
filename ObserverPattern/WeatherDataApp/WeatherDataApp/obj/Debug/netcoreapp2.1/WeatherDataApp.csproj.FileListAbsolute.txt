@@ -1,0 +1,11 @@
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\WeatherDataApp\WeatherDataApp\bin\Debug\netcoreapp2.1\WeatherDataApp.deps.json
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\WeatherDataApp\WeatherDataApp\bin\Debug\netcoreapp2.1\WeatherDataApp.runtimeconfig.json
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\WeatherDataApp\WeatherDataApp\bin\Debug\netcoreapp2.1\WeatherDataApp.runtimeconfig.dev.json
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\WeatherDataApp\WeatherDataApp\bin\Debug\netcoreapp2.1\WeatherDataApp.dll
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\WeatherDataApp\WeatherDataApp\bin\Debug\netcoreapp2.1\WeatherDataApp.pdb
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\WeatherDataApp\WeatherDataApp\obj\Debug\netcoreapp2.1\WeatherDataApp.csprojAssemblyReference.cache
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\WeatherDataApp\WeatherDataApp\obj\Debug\netcoreapp2.1\WeatherDataApp.csproj.CoreCompileInputs.cache
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\WeatherDataApp\WeatherDataApp\obj\Debug\netcoreapp2.1\WeatherDataApp.AssemblyInfoInputs.cache
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\WeatherDataApp\WeatherDataApp\obj\Debug\netcoreapp2.1\WeatherDataApp.AssemblyInfo.cs
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\WeatherDataApp\WeatherDataApp\obj\Debug\netcoreapp2.1\WeatherDataApp.dll
+C:\Users\tlarson\source\repos\DesignPatterns\ObserverPattern\WeatherDataApp\WeatherDataApp\obj\Debug\netcoreapp2.1\WeatherDataApp.pdb
